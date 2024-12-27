@@ -14,4 +14,6 @@ For tailwind-scrollbar-hide you have to install by using - npm install tailwind-
 
 For react-hook-form, you have to install by using - npm install react-hook-form
 
-Command to run the project - npm run dev
+Command to run the project -
+npm install
+npm run dev
